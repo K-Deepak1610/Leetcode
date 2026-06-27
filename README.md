@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/K-Deepak1610/Leetcode/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/K-Deepak1610/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0287-find-the-duplicate-number](https://github.com/K-Deepak1610/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0344-reverse-string](https://github.com/K-Deepak1610/Leetcode/tree/master/0344-reverse-string) |
 ## Greedy
 |  |
 | ------- |
@@ -76,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/K-Deepak1610/Leetcode/tree/master/0169-majority-element) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/K-Deepak1610/Leetcode/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
