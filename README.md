@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/K-Deepak1610/Leetcode/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/K-Deepak1610/Leetcode/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/K-Deepak1610/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0125-valid-palindrome](https://github.com/K-Deepak1610/Leetcode/tree/master/0125-valid-palindrome) |
 | [0287-find-the-duplicate-number](https://github.com/K-Deepak1610/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/K-Deepak1610/Leetcode/tree/master/0344-reverse-string) |
 ## Greedy
@@ -88,5 +89,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/K-Deepak1610/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/K-Deepak1610/Leetcode/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
