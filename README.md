@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/K-Deepak1610/Leetcode/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/K-Deepak1610/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/K-Deepak1610/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/K-Deepak1610/Leetcode/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/K-Deepak1610/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/K-Deepak1610/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/K-Deepak1610/Leetcode/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/K-Deepak1610/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
 |  |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/K-Deepak1610/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/K-Deepak1610/Leetcode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/K-Deepak1610/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/K-Deepak1610/Leetcode/tree/master/0344-reverse-string) |
 ## Trie
 |  |
