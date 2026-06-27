@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/K-Deepak1610/Leetcode/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/K-Deepak1610/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/K-Deepak1610/Leetcode/tree/master/0054-spiral-matrix) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/K-Deepak1610/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/K-Deepak1610/Leetcode/tree/master/0169-majority-element) |
 | [0287-find-the-duplicate-number](https://github.com/K-Deepak1610/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/K-Deepak1610/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/K-Deepak1610/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/K-Deepak1610/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Stack
 |  |
 | ------- |
