@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/K-Deepak1610/Leetcode/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/K-Deepak1610/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0018-4sum](https://github.com/K-Deepak1610/Leetcode/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/K-Deepak1610/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/K-Deepak1610/Leetcode/tree/master/0053-maximum-subarray) |
@@ -89,6 +90,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/K-Deepak1610/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/K-Deepak1610/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/K-Deepak1610/Leetcode/tree/master/0344-reverse-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/K-Deepak1610/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
