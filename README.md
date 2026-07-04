@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/K-Deepak1610/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/K-Deepak1610/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/K-Deepak1610/Leetcode/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/K-Deepak1610/Leetcode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/K-Deepak1610/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/K-Deepak1610/Leetcode/tree/master/0680-valid-palindrome-ii) |
 ## Greedy
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/K-Deepak1610/Leetcode/tree/master/0268-missing-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/K-Deepak1610/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/K-Deepak1610/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/K-Deepak1610/Leetcode/tree/master/0567-permutation-in-string) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/K-Deepak1610/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Prefix Sum
 |  |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/K-Deepak1610/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/K-Deepak1610/Leetcode/tree/master/0344-reverse-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/K-Deepak1610/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/K-Deepak1610/Leetcode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/K-Deepak1610/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/K-Deepak1610/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/K-Deepak1610/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -135,4 +138,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/K-Deepak1610/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/K-Deepak1610/Leetcode/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
