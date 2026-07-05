@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/K-Deepak1610/Leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/K-Deepak1610/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0018-4sum](https://github.com/K-Deepak1610/Leetcode/tree/master/0018-4sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/K-Deepak1610/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/K-Deepak1610/Leetcode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/K-Deepak1610/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/K-Deepak1610/Leetcode/tree/master/0049-group-anagrams) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/K-Deepak1610/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/K-Deepak1610/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/K-Deepak1610/Leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/K-Deepak1610/Leetcode/tree/master/0268-missing-number) |
