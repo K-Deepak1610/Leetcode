@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/K-Deepak1610/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/K-Deepak1610/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/K-Deepak1610/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/K-Deepak1610/Leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |
 ## Matrix
 |  |
 | ------- |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/K-Deepak1610/Leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/K-Deepak1610/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/K-Deepak1610/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/K-Deepak1610/Leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |
 ## Bit Manipulation
 |  |
 | ------- |
