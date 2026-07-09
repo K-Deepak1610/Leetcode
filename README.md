@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/K-Deepak1610/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/K-Deepak1610/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/K-Deepak1610/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1552-magnetic-force-between-two-balls](https://github.com/K-Deepak1610/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/K-Deepak1610/Leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |
 ## Matrix
 |  |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/K-Deepak1610/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/K-Deepak1610/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/K-Deepak1610/Leetcode/tree/master/0268-missing-number) |
+| [1552-magnetic-force-between-two-balls](https://github.com/K-Deepak1610/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/K-Deepak1610/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/K-Deepak1610/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/K-Deepak1610/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1552-magnetic-force-between-two-balls](https://github.com/K-Deepak1610/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/K-Deepak1610/Leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |
 ## Bit Manipulation
 |  |
