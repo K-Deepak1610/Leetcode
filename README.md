@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/K-Deepak1610/Leetcode/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/K-Deepak1610/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/K-Deepak1610/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/K-Deepak1610/Leetcode/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/K-Deepak1610/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/K-Deepak1610/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/K-Deepak1610/Leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/K-Deepak1610/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/K-Deepak1610/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0061-rotate-list](https://github.com/K-Deepak1610/Leetcode/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/K-Deepak1610/Leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/K-Deepak1610/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/K-Deepak1610/Leetcode/tree/master/0142-linked-list-cycle-ii) |
