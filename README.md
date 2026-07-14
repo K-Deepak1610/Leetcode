@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/K-Deepak1610/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/K-Deepak1610/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/K-Deepak1610/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/K-Deepak1610/Leetcode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/K-Deepak1610/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/K-Deepak1610/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/K-Deepak1610/Leetcode/tree/master/0234-palindrome-linked-list) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/K-Deepak1610/Leetcode/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/K-Deepak1610/Leetcode/tree/master/0049-group-anagrams) |
+| [0148-sort-list](https://github.com/K-Deepak1610/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/K-Deepak1610/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/K-Deepak1610/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/K-Deepak1610/Leetcode/tree/master/0242-valid-anagram) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/K-Deepak1610/Leetcode/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/K-Deepak1610/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/K-Deepak1610/Leetcode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/K-Deepak1610/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Counting
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/K-Deepak1610/Leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/K-Deepak1610/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/K-Deepak1610/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/K-Deepak1610/Leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/K-Deepak1610/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/K-Deepak1610/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/K-Deepak1610/Leetcode/tree/master/0234-palindrome-linked-list) |
@@ -221,4 +225,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/K-Deepak1610/Leetcode/tree/master/0707-design-linked-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/K-Deepak1610/Leetcode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
