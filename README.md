@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/K-Deepak1610/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/K-Deepak1610/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/K-Deepak1610/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/K-Deepak1610/Leetcode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/K-Deepak1610/Leetcode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/K-Deepak1610/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/K-Deepak1610/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/K-Deepak1610/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0143-reorder-list](https://github.com/K-Deepak1610/Leetcode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/K-Deepak1610/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/K-Deepak1610/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/K-Deepak1610/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/K-Deepak1610/Leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/K-Deepak1610/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/K-Deepak1610/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/K-Deepak1610/Leetcode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/K-Deepak1610/Leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/K-Deepak1610/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/K-Deepak1610/Leetcode/tree/master/0206-reverse-linked-list) |
@@ -219,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/K-Deepak1610/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/K-Deepak1610/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/K-Deepak1610/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0143-reorder-list](https://github.com/K-Deepak1610/Leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/K-Deepak1610/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/K-Deepak1610/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Design
