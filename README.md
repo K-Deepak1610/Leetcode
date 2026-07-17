@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/K-Deepak1610/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0445-add-two-numbers-ii](https://github.com/K-Deepak1610/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0633-sum-of-square-numbers](https://github.com/K-Deepak1610/Leetcode/tree/master/0633-sum-of-square-numbers) |
+| [3312-sorted-gcd-pair-queries](https://github.com/K-Deepak1610/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/K-Deepak1610/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/K-Deepak1610/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Array
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/K-Deepak1610/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/K-Deepak1610/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/K-Deepak1610/Leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [3312-sorted-gcd-pair-queries](https://github.com/K-Deepak1610/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/K-Deepak1610/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Matrix
 |  |
@@ -163,11 +165,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/K-Deepak1610/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/K-Deepak1610/Leetcode/tree/master/0567-permutation-in-string) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/K-Deepak1610/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [3312-sorted-gcd-pair-queries](https://github.com/K-Deepak1610/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/K-Deepak1610/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/K-Deepak1610/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [3312-sorted-gcd-pair-queries](https://github.com/K-Deepak1610/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Binary Search
 |  |
 | ------- |
@@ -191,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/K-Deepak1610/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/K-Deepak1610/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/K-Deepak1610/Leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [3312-sorted-gcd-pair-queries](https://github.com/K-Deepak1610/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -208,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/K-Deepak1610/Leetcode/tree/master/0169-majority-element) |
+| [3312-sorted-gcd-pair-queries](https://github.com/K-Deepak1610/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## String
 |  |
 | ------- |
@@ -281,6 +287,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/K-Deepak1610/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/K-Deepak1610/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/K-Deepak1610/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Combinatorics
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/K-Deepak1610/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
